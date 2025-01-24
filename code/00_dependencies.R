@@ -1,0 +1,12 @@
+suppressPackageStartupMessages(
+  {
+    library(tidyverse)
+    library(readxl)
+    library(writexl)
+    library(dplyr)
+    library(janitor)
+    library(gt)
+    library(lubridate)
+    library(glue)
+  }
+)
